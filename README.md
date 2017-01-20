@@ -1,4 +1,4 @@
-https://travis-ci.org/jeshiihu/travis-broken-example.svg?branch=master
+![alt text](https://travis-ci.org/jeshiihu/travis-broken-example.svg?branch=master "Travis CI")
 
 # travis-broken-example
 
